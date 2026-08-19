@@ -105,7 +105,7 @@ food-waste-donation-system/
 └── README.md
 ```
 
-## 8. Team Roles (suggested split for 4 members)
+<!-- ## 8. Team Roles (suggested split for 4 members)
 
 | Role | Responsibility |
 |---|---|
@@ -150,4 +150,4 @@ npm run dev
 
 ## 11. License
 
-VIT-Pune — see `LICENSE`.
+VIT-Pune — see `LICENSE`. -->
