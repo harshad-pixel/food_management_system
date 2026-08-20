@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16
+    restart: always
+    environment:
+      POSTGRES_USER: fwds_user
+      POSTGRES_PASSWORD: fwds_pass
+      POSTGRES_DB: fwds_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - fwds_pgdata:/var/lib/postgresql/data
+
+volumes:
+  fwds_pgdata:

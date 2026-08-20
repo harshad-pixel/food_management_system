@@ -1,0 +1,11 @@
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyter==1.1.1
+joblib==1.4.2
+
+# Stretch: freshness classification (CNN)
+tensorflow==2.17.0        # or torch==2.4.1 + torchvision if you prefer PyTorch
+pillow==10.4.0
