@@ -151,3 +151,9 @@ npm run dev
 ## 11. License
 
 VIT-Pune — see `LICENSE`. -->
+
+Roles:
+Harshad - Scrum Master
+Omkar - Backend Dev
+Prashant - Requirement Elicitation and Frontend Dev
+Aditya - Frontend Dev
